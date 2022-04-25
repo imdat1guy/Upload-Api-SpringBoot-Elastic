@@ -17,10 +17,18 @@ Here is the breakdown of the project directory:
 ## Screenshots
 
 ### File Processing:
+Output:
 ![Output](Screenshots/Output.PNG)
+
+Storage Folder:
 ![Storage Folder](Screenshots/StorageFolder.PNG)
+
+Processed Folder:
 ![Processed Archives](Screenshots/processed.PNG)
+
+Extracted Doc Files:
 ![Extracted doc Files](Screenshots/Doc.PNG)
+
 ### Kibana Dashboard:
 Archives Statistics:
 ![Archives Statistics](Kibana%20Dashboard/Archives.PNG)
