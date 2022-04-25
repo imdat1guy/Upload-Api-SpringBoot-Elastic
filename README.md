@@ -21,12 +21,15 @@ Output:
 ![Output](Screenshots/Output.PNG)
 
 Storage Folder:
+
 ![Storage Folder](Screenshots/StorageFolder.PNG)
 
 Processed Folder:
+
 ![Processed Archives](Screenshots/processed.PNG)
 
 Extracted Doc Files:
+
 ![Extracted doc Files](Screenshots/Doc.PNG)
 
 ### Kibana Dashboard:
