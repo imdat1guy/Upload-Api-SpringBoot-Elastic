@@ -1,0 +1,27 @@
+{
+    "mappings": {
+      "_source": {
+        "enabled": true
+      },
+      "properties": {
+        "filename": {
+          "type": "keyword"
+        },
+        "archiveID": {
+          "type": "keyword"
+        },
+        "fileType": {
+          "type": "keyword"
+        },
+        "filePath": {
+          "type": "keyword"
+        },
+        "content": {
+          "type": "text"
+        },
+        "timestamp": {
+          "type": "date"
+        }
+      }
+    }
+}

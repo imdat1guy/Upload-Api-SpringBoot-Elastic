@@ -1,0 +1,24 @@
+{
+    "mappings": {
+      "_source": {
+        "enabled": true
+      },
+      "properties": {
+        "filename": {
+          "type": "keyword"
+        },
+        "timestamp": {
+          "type": "date"
+        },
+        "status": {
+          "type": "keyword"
+        },
+        "remaining": {
+          "type": "long"
+        },
+        "duration": {
+          "type": "long"
+        }
+      }
+    }
+}
